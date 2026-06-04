@@ -1,4 +1,7 @@
 # Smart Street Light Using Arduino
+## Project Image
+
+(Project image will be added soon.)
 
 ## Project Overview
 
